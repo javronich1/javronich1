@@ -7,7 +7,7 @@ I enjoy working on projects that combine technical problem-solving with real-wor
 ## 🔧 What I work with
 
 **Languages**  
-Python · SQL · C · JavaScript
+Python · SQL · C · Java · JavaScript
 
 **AI & Data**  
 Machine Learning · Generative AI · NLP · Data Analysis · Data Visualization
